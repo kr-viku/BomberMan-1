@@ -9,7 +9,7 @@ box containing a bomb, the game gets over (GAME OVER!).
 
 # Note:if you want again play the game then click on the play new Game Button.
 	
-# Stratgie
+# This is how you may proceed to make this:
 1.Create an array of random numbers where each number lies between 1 to 81.
 
 2.Every number in the array should be unique.
